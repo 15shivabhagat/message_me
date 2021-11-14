@@ -5,4 +5,4 @@ application up and running.
 
 Things you may want to cover:
 
-- Setup root and login routes
+- Add favicon to the app
