@@ -5,4 +5,4 @@ application up and running.
 
 Things you may want to cover:
 
-- Add favicon to the app
+- Build Homepage of message_me app
