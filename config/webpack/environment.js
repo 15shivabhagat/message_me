@@ -15,5 +15,4 @@ environment.plugins.append(
 
 
 
-$(document).on("turbolinks:load", () => $(".ui.dropdown").dropdown());
-module.exports = environment
+
